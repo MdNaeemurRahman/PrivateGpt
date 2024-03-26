@@ -27,11 +27,10 @@ Pull the model you'd like to use: Choose your preferred model
 ollama pull llama2
 ```
 
-### Getting WeWork's latest quarterly earnings report (10-Q)
+### Create Source document folder and Keep all documents here
 
 ```
 mkdir source_documents
-curl https://d18rn0p25nwr6d.cloudfront.net/CIK-0001813756/975b3e9b-268e-4798-a9e4-2a9a7c92dc10.pdf -o source_documents/wework.pdf
 ```
 
 ### Ingesting files
