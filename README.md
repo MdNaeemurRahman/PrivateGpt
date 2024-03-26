@@ -1,4 +1,6 @@
-# PrivateGPT with Llama 2 uncensored
+Note: THis is an example taken from Ollam example (https://github.com/ollama/ollama)
+
+# Example of PrivateGPT with Llama 2 using Ollama
 
 https://github.com/jmorganca/ollama/assets/3325447/20cf8ec6-ff25-42c6-bdd8-9be594e3ce1b
 
@@ -19,10 +21,10 @@ Install the Python dependencies:
 pip install -r requirements.txt
 ```
 
-Pull the model you'd like to use:
+Pull the model you'd like to use: Choose your preferred model
 
 ```
-ollama pull llama2-uncensored
+ollama pull llama2
 ```
 
 ### Getting WeWork's latest quarterly earnings report (10-Q)
